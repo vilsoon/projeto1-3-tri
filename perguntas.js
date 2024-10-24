@@ -1,17 +1,17 @@
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'JOGOS',
+    'Como subir caṕa no free fire',
+    'coloque sua senssibilidade tudo no 100 e quando atirar no adiversario puxe para cima'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'JOGOS',
+    'Como consegui brawlers no Brawn Stars',
+    'Faça mições e consiga estralas'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'JOGOS',
+    'Qual melhor jogos para jogar com amigos',
+    'Brawn Stars'
 )
